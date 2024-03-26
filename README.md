@@ -1,2 +1,3 @@
 # DeckCards_enum_Shuffel_Sort
-Practice
+Switch to Master branch for code sample 
+
